@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	inputThenPrintSumAndAverage();
+	inputTenPrintSumAndAverage();
     }
 
-    public static void inputThenPrintSumAndAverage() {
+    public static void inputTenPrintSumAndAverage() {
         int sum = 0;
         long avg = 0L;
         int count = 0;
